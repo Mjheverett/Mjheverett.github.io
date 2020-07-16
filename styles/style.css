@@ -1,6 +1,6 @@
 html {
     font-family: 'Open Sans', sans-serif;
-    background-color: rgb(176, 186, 197);
+    background-color: #ff5e00;
 }
 
 img {
@@ -15,8 +15,7 @@ h1 {
     text-align: center;
     margin: 0;
     padding: 20px 0;    
-    color: #1a3146;
-    text-shadow: 3px 3px 1px black;
+    color: white;
   }
   
 p, li {
@@ -27,4 +26,5 @@ p, li {
     text-align: center;    
     line-height: 2;
     letter-spacing: 1px;
+    color: white;
   }
